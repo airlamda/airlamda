@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm David and I do research on electric vertical take-off and landing (eVTOL) aircraft.
+
 <!--
 **airlamda/airlamda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
